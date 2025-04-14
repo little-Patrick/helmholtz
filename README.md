@@ -20,7 +20,7 @@
 
 <h2 align="center">Usage</h2>
 
-Please [Docs](https://github.com/little-Patrick/helmholtz/tree/main/Docs) for information on using library functions.
+Please see [Docs](https://github.com/little-Patrick/helmholtz/tree/main/Docs) for information on using library functions.
 
 <h2 align="center"> 🛠️ TODO / Roadmap</h2>
   
