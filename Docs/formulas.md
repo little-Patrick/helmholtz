@@ -1,5 +1,5 @@
 # Solve for Helmholtz Frequency
-## Find Helmholtz resonance frequency, the frequency of the tap-tuned note
+## Find Helmholtz resonance frequency, the frequency (Hz) of the desired tap-tuned note.
 ### helmholtz_formula(c, a, v, leff)
 - Take four arguments
     - c: speed of sound
@@ -8,7 +8,7 @@
     - leff: effective neck length
 
 # Solve for Area of Sound Hole
-## Find the area of the sound hole
+## Find the area of the sound hole.
 ### area_of_sound_hole(f, c, v, leff)
 - Take four arguments
     - f: Helmholtz Frequency
